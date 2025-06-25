@@ -198,7 +198,7 @@ const App: React.FC = () => {
         <footer className="mt-6 text-center text-xs text-gray-500">
           <p>Questa app trascrive l'audio dal tuo microfono. Per l'audio di sistema, assicurati che il microfono possa captare l'output degli altoparlanti o usa un software di routing audio.</p>
           <p>L'accuratezza della trascrizione dipende dalla qualità del microfono, dal rumore di fondo e dalla chiarezza del parlato.</p>
-           <p className="mt-2">Per risultati ottimali, usa Chrome o Edge su desktop. Lingua: Italiano (it-IT) - creator: Marco Ferrari @ARL.</p>
+           <p className="mt-2">Per risultati ottimali, usa Chrome o Edge su desktop. Lingua: Italiano (it-IT), creator: Marco Ferrari @ARL.</p>
         </footer>
       </div>
     </div>
