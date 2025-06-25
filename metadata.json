@@ -1,0 +1,9 @@
+
+{
+  "name": "Trascrittore Microfono Live",
+  "description": "Un'applicazione web che trascrive l'audio dal tuo microfono in tempo reale e ti permette di salvare la trascrizione come file di testo. Nota: questa app utilizza il tuo microfono. Per catturare l'audio di sistema, assicurati che il microfono possa rilevare l'output degli altoparlanti o utilizza un software di instradamento audio (non fornito da questa app) per incanalare l'audio di sistema verso l'ingresso del microfono.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
